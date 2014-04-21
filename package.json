@@ -1,6 +1,6 @@
 {
   "name": "rethinkdb-mock",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "In memory mock of the RethinkDB api",
   "main": "lib/rethinkdb.js",
   "scripts": {
