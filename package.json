@@ -1,0 +1,20 @@
+{
+  "name": "rethinkdb-mock",
+  "version": "0.0.0",
+  "description": "In memory mock of the RethinkDB api",
+  "main": "lib/rethinkdb.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "rethinkdb",
+    "db",
+    "mock"
+  ],
+  "author": "Vasco Fernandes <vasco.box@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "decoy": "0.0.3",
+    "lodash": "^2.4.1"
+  }
+}
